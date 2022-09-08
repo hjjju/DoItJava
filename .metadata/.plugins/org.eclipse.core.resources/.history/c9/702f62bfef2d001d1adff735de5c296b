@@ -1,0 +1,11 @@
+package staticex;
+
+public class Student3 {
+	
+	private static int serialNum = 10000; //private 변수로 변경
+	int studentID;
+	String studentName;
+	int grade;
+	String address;
+	
+}

@@ -1,0 +1,11 @@
+package singleton;
+
+public class ConpanyTest {
+	public static void main(String[] args) {
+		
+		//싱글톤패턴: 객체가 단 하나만 생성될수있게끔.
+		Company company = new Company();
+		 
+		
+	}
+}

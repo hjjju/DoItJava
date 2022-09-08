@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="classpart.Student"/>
+    <fullyQualifiedTypeName name="reference.Subject"/>
+    <fullyQualifiedTypeName name="hiding.BirthDay"/>
+    <fullyQualifiedTypeName name="reference.Student"/>
+    <fullyQualifiedTypeName name="reference.Person"/>
+    <fullyQualifiedTypeName name="thisex.BirthDay"/>
+    <fullyQualifiedTypeName name="thisex.CallAnotherConst.Person"/>
+    <fullyQualifiedTypeName name="cooperation.Student"/>
+    <fullyQualifiedTypeName name="cooperation.Bus"/>
+    <fullyQualifiedTypeName name="cooperation.Subway"/>
+    <fullyQualifiedTypeName name="cooperation.Tax"/>
+    <fullyQualifiedTypeName name="staticex.Student"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="staticex.Student1"/>
+    <fullyQualifiedTypeName name="staticex.Student2"/>
+    <fullyQualifiedTypeName name="staticex.Student3"/>
+    <fullyQualifiedTypeName name="javax.swing.event.TableColumnModelListener"/>
+    <fullyQualifiedTypeName name="singleton.Company"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+</qualifiedTypeNameHistroy>

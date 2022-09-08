@@ -1,0 +1,12 @@
+package staticex;
+
+public class StudentTest6 {
+
+	public static void main(String[] args) {
+		
+		Student3 studentSon = new Student3();
+		
+
+	}
+
+}

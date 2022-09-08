@@ -1,0 +1,12 @@
+package staticex;
+
+public class Student {
+	static int serialNum = 10000; //static변수
+	int studentId;
+	String studentName;
+	
+	public Student() {
+		serialNum++;
+		studentId = serialNum;
+	}
+}

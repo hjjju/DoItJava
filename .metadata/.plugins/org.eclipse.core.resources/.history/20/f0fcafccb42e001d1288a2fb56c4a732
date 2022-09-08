@@ -1,0 +1,16 @@
+package singleton;
+
+public class Company {
+
+	//외우에서 이 생성자를 호출 할수 없음.
+	
+	private static Company instance = new Company();
+	
+	private  Company() {
+		
+	}
+	
+	public Company getInstance() {
+		return instance;
+	}
+}
